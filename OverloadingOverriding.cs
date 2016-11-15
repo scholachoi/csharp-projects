@@ -24,7 +24,7 @@ namespace OverloadingOverriding
             return 0;
         }
     }
-
+    //Creation of a derived class
     class LoyalCustomer : Customer
     {
         public override int BonusPoints()
